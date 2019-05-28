@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Welcome to Zelig Land. Enjoy.
+Welcome to Zelig Land.
