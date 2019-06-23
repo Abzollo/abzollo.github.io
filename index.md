@@ -5,5 +5,3 @@
 layout: home
 ---
 
-Welcome to Zelig Land.
-
