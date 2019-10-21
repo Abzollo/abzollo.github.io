@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Conciseness"
+date:   2019-10-22 02:17:53 +0400
+---
+
+
+To be concise is to say (almost) the same thing with less words. There are so many reasons why it’s so great. People don’t want to hear you talking all day, for starters. Also, conciseness has some beauty to it. We can relate more to a meaning that is conveyed through shorter sentence than longer ones.
+
+But why does conciseness have this quality of being *inherently good*? I thought about this for a little while, and I concluded that the reason is the following: since conciseness means *approximately* the same meaning in less words, then being concise means achieving *approximately* similar results with less energy overall, either from the speaker or the listener (i.e. energy for attention, processing, filtering, etc). Though, the amount of energy people are willing to spend is situational. For example, we like to spend more energy with people we love, so if you noticed, we are usually less concise (i.e. more verbose) with the ones we love the most.
+
+The key word in the last paragraph is *approximately*. Of course, we can’t achieve the exact same meaning with less words. If we are only talking about information using **bits** (0 and 1), then we can be perfectly concise at transmitting the bits, which means that we can eventually achieve the theoretical minimum amount of bits possible to represent a piece of information. This is because we have a precise mechanism for information retrieval (i.e. deterministic decompression algorithms). In this case, conciseness is called (non-lossy) **compression**, so you can consider conciseness a generalization of compression. The general aspects of compression transfer nicely to conciseness (e.g. you can use Occam’s Razor to achieve better results in constructing a predictive model and also in arguing with other people).
+
+Compression of **words**, as in compressing their *meanings* somehow, is an ill-defined process for the very reason that the choice of a word itself -- irrespective of its given meaning in the dictionary -- directly impacts the meaning it wants to convey. Otherwise, summaries would be just called *compression schemes*. People summarize differently because achieving conciseness is often an ambiguous goal. Conciseness is subjective, so the more empirical evidence of good concise writing you have, the more acclaimed your summaries will be. Of course, ambiguities are undesirable, but **confidence is sexy**.
+
+How can we be confident that our conciseness is good? If you look at special cases of conciseness, such as text summarization, you can see that you can easily be confident by **following the leaders** (aka the experts) and learning from them. Just follow their rules-of-thumb, let them evaluate your summaries, get their feedbacks, enhance and improve, and be creative. (In fact, following the experts is a well-known learning algorithm that has nice mathematical guarantees.)
+
+Notice that we came back to the original point. Why do the experts themselves summarize this way? Why are they concise that way? Well, I guess it has to do with some innate reactions from our brains. Summaries require less energy from the reader to digest the text and get the main points, and brains like less energy and main points. The brain is generally optimizing an innate objective, from which a more specific, contexual objective is continuously constructed and optimized (getting the main points from a text in less time and less thinking, for example). Yeah... I guess that’s it. Similar to many physical phenomena, it happens this way and that way because such and such quantity is always being optimized.
