@@ -16,10 +16,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 # URL
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://abzollo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zeligism.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
-github_username: abzollo
+github_username: zeligism
 twitter_username: zeligcino
 instagram_username: zeligcino
 
