@@ -4,7 +4,7 @@ title:  "What’s the difference between Snapchat and people-watching?"
 date:   2019-09-29 20:44:10 +0400
 ---
 
-*[Disclaimer: my Shakespearean English is bad, so I used this [translator](https://lingojam.com/EnglishtoShakespearean).*
+*[Disclaimer: my Shakespearean English is bad, so I used this [translator](https://lingojam.com/EnglishtoShakespearean).]*
 
 ## 2020
 
