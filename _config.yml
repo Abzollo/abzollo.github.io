@@ -26,13 +26,15 @@ instagram_username: zeligcino
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: abzollo
+    shortname: zeligism
 
 # Google Analytics
 google_analytics: UA-141191998-1
 
 # Build settings
 markdown: kramdown
+kramdown:
+    math_engine: katex
 theme: minima
 plugins:
   - jekyll-feed
